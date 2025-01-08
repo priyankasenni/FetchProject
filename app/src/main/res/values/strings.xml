@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">FetchProject</string>
+
+    <!-- String for no internet message -->
+    <string name="no_internet_message">No internet connection available</string>
+
+    <!-- String for loading -->
+    <string name="loading_message">Loading...</string>
+
+    <!-- String for list ID header -->
+    <string name="list_id_label">List ID: %1$s</string>
+
+    <!-- Fallback for unnamed items -->
+    <string name="unnamed_item">Unnamed</string>
+
+</resources>
