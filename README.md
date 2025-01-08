@@ -12,3 +12,5 @@ This is a native Android app built using Kotlin that retrieves data from the Fet
 - Internet connectivity check with user feedback.
 - Circular progress bar for smooth user experience during loading.
 
+### Screenshot
+<img src="https://github.com/priyankasenni/FetchProject/raw/main/Main_screen.png" alt="Main Screen" width="300"/>
